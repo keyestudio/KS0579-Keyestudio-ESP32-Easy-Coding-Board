@@ -1,10 +1,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
-
+   :caption: KS0579 Keyestudio ESP32 Easy Coding Board
+   
    README.md
-   docs/keyestudio/index
+   docs/index
 
 
 
